@@ -61,6 +61,7 @@ public class MainActivity extends BaseActivity implements MvcListener {
 //        }catch (Exception e){
 //
 //        }
+
         tvStr.setText(str);
     }
 
